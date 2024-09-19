@@ -1,8 +1,7 @@
 /* sass file */
 button {
   color: #FF0000;
-
-  &:hover {
-    color: #00FF00;
-  }
+}
+button:hover {
+  color: #00FF00;
 }
